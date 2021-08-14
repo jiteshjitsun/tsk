@@ -1,0 +1,44 @@
+
+
+
+
+body {
+    font-family: 'Cantarell';
+    font-size: 48px;
+    background: #a18cd1;
+    /* background: -webkit-linear-gradient(to right, rgba(161, 140, 209, 0.5), rgba(251, 194, 235, 0.5)); */
+    background: linear-gradient(to right, rgba(166, 192, 254, 0.5), rgba(246, 128, 132, 0.5))
+  }
+#icon {
+    width: 45%;
+    height: auto;
+}
+
+#alert {
+    margin-top: 200px;
+    text-align: center;
+}
+
+#nav-menu {
+    font-family:'Dosis', Times, serif;
+    font-size:large;
+    font-weight:bold;
+    padding-right: 90px;
+    color: blueviolet;
+}
+
+.footer {
+    font-size: large;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: rgb(245, 245, 245);
+    font-weight: bold;
+    background-color: rgb(158, 5, 5);
+}
+
+#address {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: end;
+    left: auto;
+}
